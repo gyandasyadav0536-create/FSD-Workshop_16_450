@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/gyandasyadav0536-create/FSD-Workshop_16_450/issues"
   },
-  "homepage": "https://github.com/gyandasyadav0536-create/FSD-Workshop_16_450#readme"
+  "homepage": "https://github.com/gyandasyadav0536-create/FSD-Workshop_16_450#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
 }
